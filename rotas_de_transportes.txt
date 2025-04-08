@@ -1,4 +1,0 @@
-001;Ônibus;Centro;Zona Norte
-002;Ônibus;Zona Sul;Centro
-003;Metrô;Estação A;Estação B
-004;Metrô;Estação B;Estação C
